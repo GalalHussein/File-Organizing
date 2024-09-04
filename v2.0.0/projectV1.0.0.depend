@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1725267385 source:c:\users\nanochip\desktop\prvrs1.0.0\vrs1.0.0test\projectv1.0.0\main.cpp
+	<iostream>
+	<dirent.h>
+	<cstring>
+	<vector>
+	<algorithm>
+	"pattern.h"
+	"colors.h"
+
+1725267345 c:\users\nanochip\desktop\prvrs1.0.0\vrs1.0.0test\projectv1.0.0\pattern.h
+	<regex>
+	<errno.h>
+
+1725255154 c:\users\nanochip\desktop\prvrs1.0.0\vrs1.0.0test\projectv1.0.0\colors.h
+
